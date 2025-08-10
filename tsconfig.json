@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2020",         // o es2022, nodenext, node20
+    "module": "nodenext",       // o node20 si tienes TS 5.3+
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
